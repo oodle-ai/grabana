@@ -1,7 +1,7 @@
 package stackdriver
 
 import (
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grafana-sdk"
 )
 
 func defaultAlignmentOpts() sdk.StackdriverAlignOptions {

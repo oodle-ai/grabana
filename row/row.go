@@ -1,17 +1,17 @@
 package row
 
 import (
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/gauge"
-	"github.com/K-Phoen/grabana/graph"
-	"github.com/K-Phoen/grabana/heatmap"
-	"github.com/K-Phoen/grabana/logs"
-	"github.com/K-Phoen/grabana/singlestat"
-	"github.com/K-Phoen/grabana/stat"
-	"github.com/K-Phoen/grabana/table"
-	"github.com/K-Phoen/grabana/text"
-	"github.com/K-Phoen/grabana/timeseries"
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grabana/alert"
+	"github.com/oodle-ai/grabana/gauge"
+	"github.com/oodle-ai/grabana/graph"
+	"github.com/oodle-ai/grabana/heatmap"
+	"github.com/oodle-ai/grabana/logs"
+	"github.com/oodle-ai/grabana/singlestat"
+	"github.com/oodle-ai/grabana/stat"
+	"github.com/oodle-ai/grabana/table"
+	"github.com/oodle-ai/grabana/text"
+	"github.com/oodle-ai/grabana/timeseries"
+	"github.com/oodle-ai/grafana-sdk"
 )
 
 // Option represents an option that can be used to configure a row.

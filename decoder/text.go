@@ -1,8 +1,8 @@
 package decoder
 
 import (
-	"github.com/K-Phoen/grabana/row"
-	"github.com/K-Phoen/grabana/text"
+	"github.com/oodle-ai/grabana/row"
+	"github.com/oodle-ai/grabana/text"
 )
 
 type DashboardText struct {

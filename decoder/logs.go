@@ -3,8 +3,8 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/logs"
-	"github.com/K-Phoen/grabana/row"
+	"github.com/oodle-ai/grabana/logs"
+	"github.com/oodle-ai/grabana/row"
 )
 
 var ErrInvalidSortOrder = fmt.Errorf("invalid sort order")

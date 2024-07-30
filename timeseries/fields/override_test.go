@@ -3,8 +3,8 @@ package fields
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/timeseries/axis"
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grabana/timeseries/axis"
+	"github.com/oodle-ai/grafana-sdk"
 	"github.com/stretchr/testify/require"
 )
 

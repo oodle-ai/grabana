@@ -1,7 +1,7 @@
 package axis
 
 import (
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grafana-sdk"
 )
 
 // Option represents an option that can be used to configure an axis.

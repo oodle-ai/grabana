@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/K-Phoen/grabana"
-	"github.com/K-Phoen/grabana/dashboard"
-	"github.com/K-Phoen/grabana/gauge"
-	"github.com/K-Phoen/grabana/row"
+	"github.com/oodle-ai/grabana"
+	"github.com/oodle-ai/grabana/dashboard"
+	"github.com/oodle-ai/grabana/gauge"
+	"github.com/oodle-ai/grabana/row"
 )
 
 func main() {

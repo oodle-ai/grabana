@@ -2,7 +2,7 @@ package golang
 
 import (
 	"github.com/K-Phoen/jennifer/jen"
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grafana-sdk"
 	"go.uber.org/zap"
 )
 

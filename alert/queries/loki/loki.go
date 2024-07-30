@@ -3,7 +3,7 @@ package loki
 import (
 	"time"
 
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grafana-sdk"
 )
 
 // Option represents an option that can be used to configure a loki query.

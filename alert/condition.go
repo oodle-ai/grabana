@@ -1,7 +1,7 @@
 package alert
 
 import (
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grafana-sdk"
 )
 
 // ConditionEvaluator represents an option that can be used to configure a condition.

@@ -3,7 +3,7 @@ package decoder
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/stat"
+	"github.com/oodle-ai/grabana/stat"
 	"github.com/stretchr/testify/require"
 )
 

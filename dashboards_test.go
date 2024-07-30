@@ -9,12 +9,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/dashboard"
-	"github.com/K-Phoen/grabana/row"
-	"github.com/K-Phoen/grabana/text"
-	"github.com/K-Phoen/grabana/timeseries"
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grabana/alert"
+	"github.com/oodle-ai/grabana/dashboard"
+	"github.com/oodle-ai/grabana/row"
+	"github.com/oodle-ai/grabana/text"
+	"github.com/oodle-ai/grabana/timeseries"
+	"github.com/oodle-ai/grafana-sdk"
 	"github.com/stretchr/testify/require"
 )
 

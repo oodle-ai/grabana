@@ -3,7 +3,7 @@ package stackdriver
 import (
 	"time"
 
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grafana-sdk"
 )
 
 const AlignmentStackdriverAuto = "stackdriver-auto"

@@ -3,8 +3,8 @@ package cloudwatch
 import (
 	"encoding/json"
 
-	"github.com/K-Phoen/grabana/datasource"
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grabana/datasource"
+	"github.com/oodle-ai/grafana-sdk"
 )
 
 var _ datasource.Datasource = CloudWatch{}

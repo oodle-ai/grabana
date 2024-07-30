@@ -3,13 +3,13 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/dashboard"
-	"github.com/K-Phoen/grabana/variable/constant"
-	"github.com/K-Phoen/grabana/variable/custom"
-	"github.com/K-Phoen/grabana/variable/datasource"
-	"github.com/K-Phoen/grabana/variable/interval"
-	"github.com/K-Phoen/grabana/variable/query"
-	"github.com/K-Phoen/grabana/variable/text"
+	"github.com/oodle-ai/grabana/dashboard"
+	"github.com/oodle-ai/grabana/variable/constant"
+	"github.com/oodle-ai/grabana/variable/custom"
+	"github.com/oodle-ai/grabana/variable/datasource"
+	"github.com/oodle-ai/grabana/variable/interval"
+	"github.com/oodle-ai/grabana/variable/query"
+	"github.com/oodle-ai/grabana/variable/text"
 )
 
 var ErrVariableNotConfigured = fmt.Errorf("variable not configured")

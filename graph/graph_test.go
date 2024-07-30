@@ -3,12 +3,12 @@ package graph
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/axis"
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/graph/series"
-	"github.com/K-Phoen/grabana/links"
-	"github.com/K-Phoen/grabana/target/stackdriver"
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grabana/axis"
+	"github.com/oodle-ai/grabana/errors"
+	"github.com/oodle-ai/grabana/graph/series"
+	"github.com/oodle-ai/grabana/links"
+	"github.com/oodle-ai/grabana/target/stackdriver"
+	"github.com/oodle-ai/grafana-sdk"
 	"github.com/stretchr/testify/require"
 )
 

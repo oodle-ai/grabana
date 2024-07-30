@@ -1,7 +1,7 @@
 package query
 
 import (
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grafana-sdk"
 )
 
 const All = "$__all"

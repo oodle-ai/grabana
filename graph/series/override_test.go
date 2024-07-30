@@ -3,8 +3,8 @@ package series
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grabana/errors"
+	"github.com/oodle-ai/grafana-sdk"
 	"github.com/stretchr/testify/require"
 )
 

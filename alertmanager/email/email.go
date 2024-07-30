@@ -3,8 +3,8 @@ package email
 import (
 	"strings"
 
-	"github.com/K-Phoen/grabana/alertmanager"
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grabana/alertmanager"
+	"github.com/oodle-ai/grafana-sdk"
 )
 
 // Option represents an option that can be used to configure an "email"

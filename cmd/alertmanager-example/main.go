@@ -6,12 +6,12 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/K-Phoen/grabana"
-	"github.com/K-Phoen/grabana/alertmanager"
-	"github.com/K-Phoen/grabana/alertmanager/email"
-	"github.com/K-Phoen/grabana/alertmanager/opsgenie"
-	"github.com/K-Phoen/grabana/alertmanager/slack"
-	"github.com/K-Phoen/grabana/alertmanager/webhook"
+	"github.com/oodle-ai/grabana"
+	"github.com/oodle-ai/grabana/alertmanager"
+	"github.com/oodle-ai/grabana/alertmanager/email"
+	"github.com/oodle-ai/grabana/alertmanager/opsgenie"
+	"github.com/oodle-ai/grabana/alertmanager/slack"
+	"github.com/oodle-ai/grabana/alertmanager/webhook"
 )
 
 func main() {

@@ -1,8 +1,8 @@
 package decoder
 
 import (
-	"github.com/K-Phoen/grabana/row"
-	"github.com/K-Phoen/grabana/table"
+	"github.com/oodle-ai/grabana/row"
+	"github.com/oodle-ai/grabana/table"
 )
 
 // DashboardTable represents a table panel.

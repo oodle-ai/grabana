@@ -1,7 +1,7 @@
 package scheme
 
 import (
-	"github.com/K-Phoen/sdk"
+	"github.com/oodle-ai/grafana-sdk"
 )
 
 type ColorMode string
