@@ -6,7 +6,7 @@ require (
 	github.com/K-Phoen/jennifer v0.0.0-20230811102814-e6c78cf40086
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/invopop/jsonschema v0.12.0
-	github.com/oodle-ai/grafana-sdk v0.0.0-20240801051227-fb3515d5a4ca
+	github.com/oodle-ai/grafana-sdk v0.0.0-20240801053246-d3196ebd708f
 	github.com/prometheus/common v0.45.0
 	github.com/rhysd/go-github-selfupdate v1.2.3
 	github.com/spf13/cobra v1.8.0
