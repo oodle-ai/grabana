@@ -49,8 +49,8 @@ github.com/mailru/easyjson v0.7.7/go.mod h1:xzfreul335JAWq5oZzymOObrkdz5UnU4kGfJ
 github.com/onsi/ginkgo v1.6.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/gomega v1.4.2 h1:3mYCb7aPxS/RU7TI1y4rkEn1oKmPRjNJLNEXgw7MH2I=
 github.com/onsi/gomega v1.4.2/go.mod h1:ex+gbHU/CVuBBDIJjb2X0qEXbFg53c61hWP/1CpauHY=
-github.com/oodle-ai/grafana-sdk v0.0.0-20240730185441-d93c9726f0d6 h1:e6vUGfiYzwV15SDZnJMjt5z0RuN600h2irj0gp3uyuI=
-github.com/oodle-ai/grafana-sdk v0.0.0-20240730185441-d93c9726f0d6/go.mod h1:sc0yYol3FwWERQx6N2WHAUANci6TXMf42I8x9LRY74M=
+github.com/oodle-ai/grafana-sdk v0.0.0-20240801051227-fb3515d5a4ca h1:Mfe7YwRHYd0sWn7BR2jTT96wJaRhtdTb0QMY6A2YtdE=
+github.com/oodle-ai/grafana-sdk v0.0.0-20240801051227-fb3515d5a4ca/go.mod h1:sc0yYol3FwWERQx6N2WHAUANci6TXMf42I8x9LRY74M=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/prometheus/common v0.45.0 h1:2BGz0eBc2hdMDLnO/8n0jeB3oPrt2D08CekT0lneoxM=
